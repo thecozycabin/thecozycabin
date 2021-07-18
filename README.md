@@ -7,4 +7,4 @@ Nice to see you!
 
 `-` 💻 [The Cozy Cabin Subreddit!](https://reddit.com/r/discordtcc)
 
-`-` 🗒️ [And our website, with all the other useful links!](https://thecozycabin.github.io) The website's currently a work in progress :>
+`-` 🗒️ [And our website, which tells you all about the server and has all the other useful links!](https://thecozycabin.github.io) The website's currently a work in progress :>
